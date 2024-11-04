@@ -2,7 +2,7 @@
 
 ## ==> [Link to all problem set](https://github.com/anirudha-8/react.js-practical-problems.git)
 
-## ==> [🔥Live Demo](https://show-user-input-react-problem.vercel.app/)
+## ==> [🔥Live Demo](https://03-show-user-input-react-problem.vercel.app/)
 
 Welcome to the **third problem** of the React 30+ Practical Problems series! In this challenge, we will create a dynamic form that displays user input in real-time.
 
