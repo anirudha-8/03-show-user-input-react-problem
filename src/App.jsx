@@ -1,4 +1,10 @@
+import ShowUserInput from "./components/ShowUserInput";
+
 const App = () => {
-	return <div>Hello World</div>;
+	return (
+		<>
+			<ShowUserInput />
+		</>
+	);
 };
 export default App;

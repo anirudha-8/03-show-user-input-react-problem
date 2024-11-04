@@ -4,9 +4,9 @@ const ShowUserInput = () => {
 	const [userName, setUserName] = useState("");
 
 	return (
-		<div>
+		<div className="container">
 			<form action="#">
-				<label htmlFor="userName">Enter your name:</label>
+				<label htmlFor="userName">Enter your name: </label>
 				<input
 					type="text"
 					name="userName"
