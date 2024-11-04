@@ -49,3 +49,23 @@ body {
 		}
 	}
 }
+
+@media (max-width: 600px) {
+	.container {
+		.input-field {
+			margin: 0;
+			flex-direction: column;
+
+			label,
+			input {
+				align-self: start;
+			}
+			label {
+				margin-bottom: 1rem;
+			}
+			input {
+				margin: 0;
+			}
+		}
+	}
+}
